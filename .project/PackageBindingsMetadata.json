@@ -8253,38 +8253,6 @@
         "SubBindings": [],
         "DefaultValueSource": "Property"
       }
-    ],
-    "UiPath.Web.Activities.Http.NetHttpRequest": [
-      {
-        "Type": "Connection",
-        "PublishNullValues": false,
-        "Key": {
-          "Value": "ConnectionId",
-          "ValueSource": "Property"
-        },
-        "Values": {
-          "ConnectionId": {
-            "Value": "ConnectionId",
-            "ValueSource": "Property"
-          }
-        },
-        "Arguments": {
-          "BindingsVersion": {
-            "Value": "2.2",
-            "ValueSource": "Constant"
-          },
-          "Connector": {
-            "Value": "ConnectorKey",
-            "ValueSource": "Property"
-          },
-          "UseConnectionService": {
-            "Value": "true",
-            "ValueSource": "Constant"
-          }
-        },
-        "SubBindings": [],
-        "DefaultValueSource": "Property"
-      }
     ]
   }
 }
