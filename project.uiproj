@@ -1,6 +1,5 @@
 {
-  "ProjectType": "Tests",
   "Name": "UIBANK",
-  "Description": null,
+  "ProjectType": "Tests",
   "MainFile": "TestCase.xaml"
 }
