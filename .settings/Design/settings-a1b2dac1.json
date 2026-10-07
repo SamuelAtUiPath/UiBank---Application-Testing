@@ -11,5 +11,6 @@
   "UiPath.UIAutomationNext.Activities.SearchStepsJava.FindSelectorType": "Auto",
   "UiPath.UIAutomationNext.Activities.SearchStepsJava.ComputerVision": "False",
   "UiPath.UIAutomationNext.Activities.VerifyExecution.VerifyTypedText": "False",
-  "UiPath.UIAutomationNext.Activities.ApplicationCard.WindowAttachMode": "ByInstance"
+  "UiPath.UIAutomationNext.Activities.ApplicationCard.WindowAttachMode": "ByInstance",
+  "UiPath.UIAutomationNext.Activities.ApplicationCard.ResizeWindow": "None"
 }
