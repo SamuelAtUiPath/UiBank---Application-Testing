@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://staging.uipath.com/testcloud_team/sam/testmanager_/",
+  "defaultProject": {
+    "id": "cdd61445-475f-0200-5eb1-0b4a1baae641",
+    "name": "UIBANK",
+    "key": "UIBANK"
+  }
+}

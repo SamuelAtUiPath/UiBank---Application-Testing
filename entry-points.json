@@ -1,0 +1,72 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "$id": "entry-points.json",
+  "entryPoints": [
+    {
+      "filePath": "Tests/Login/Login - Successful Login.xaml",
+      "uniqueId": "f8abba95-85a9-41ff-8dd6-fef8248392b6",
+      "type": "Process",
+      "input": null,
+      "output": null
+    },
+    {
+      "filePath": "TestCase.xaml",
+      "uniqueId": "e3c6460d-dd1a-463e-bdb7-2cf78e147031",
+      "type": "Process",
+      "input": {
+        "type": "object",
+        "properties": {
+          "Name": {
+            "type": "string",
+            "x-default-expression": "\"John Doe\"",
+            "default": "John Doe"
+          },
+          "Email": {
+            "type": "string",
+            "x-default-expression": "\"john.doe@example.com\"",
+            "default": "john.doe@example.com"
+          },
+          "LoanAmount": {
+            "type": "string",
+            "x-default-expression": "\"5000\"",
+            "default": "5000"
+          },
+          "LoanTerm": {
+            "type": "string",
+            "x-default-expression": "\"24\"",
+            "default": "24"
+          },
+          "YearlyIncome": {
+            "type": "string",
+            "x-default-expression": "\"55000\"",
+            "default": "55000"
+          },
+          "Age": {
+            "type": "string",
+            "x-default-expression": "\"30\"",
+            "default": "30"
+          },
+          "ExpectedLoanId": {
+            "type": "string",
+            "x-default-expression": "\"1001\"",
+            "default": "1001"
+          },
+          "ExpectedLoanRate": {
+            "type": "string",
+            "x-default-expression": "\"5\"",
+            "default": "5"
+          }
+        },
+        "required": []
+      },
+      "output": null
+    },
+    {
+      "filePath": "Tests/ApplyLoan/Apply Loan - Loan Approve.xaml",
+      "uniqueId": "0a4f63f8-b14a-4899-b953-b49580b1adfe",
+      "type": "Process",
+      "input": null,
+      "output": null
+    }
+  ]
+}

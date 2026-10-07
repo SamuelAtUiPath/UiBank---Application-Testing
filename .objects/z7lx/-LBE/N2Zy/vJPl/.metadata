@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Type Into 'Loan Amount Requested' in fill loan form",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "vJPlo_5tUE6OLjzEBw_hTg",
+  "Reference": "yhoAPClHTEqvN_PJPuwAQA/vJPlo_5tUE6OLjzEBw_hTg",
+  "ParentRef": "yhoAPClHTEqvN_PJPuwAQA/N2Zyqxay0EWs8U_lq8TvDw",
+  "Created": "2026-08-05T15:01:00.7694502Z",
+  "Updated": "2026-08-05T15:01:00.7694502Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationNext.Activities, Version=26.4.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

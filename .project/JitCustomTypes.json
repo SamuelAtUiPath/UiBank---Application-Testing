@@ -1,0 +1,30 @@
+{
+  "version": "3.0.0.0",
+  "bundleHash": "C2knzyD9ep1EyGwysApdxddRbhRSmS1zCJdb05Zb7M",
+  "addedAssemblyNames": [],
+  "discardedAssemblyNames": [],
+  "discardedAssemblyReplacements": {},
+  "assembliesJitInfo": {
+    "DataService.UiPath_Autopilot_Playground": {
+      "createdAt": "2026-09-08T16:07:14.1109326-03:00",
+      "providerName": "DataService",
+      "rootNamespace": "UiPath_Autopilot_Playground",
+      "typeNames": [
+        "UiBankUserRegistration",
+        "SystemUser",
+        "UiBankLoanApplication",
+        "UserType"
+      ]
+    },
+    "DataService.UIBANK": {
+      "createdAt": "2026-09-25T14:14:29.5566847-03:00",
+      "providerName": "DataService",
+      "rootNamespace": "UIBANK",
+      "typeNames": [
+        "UiBankLoanApplication",
+        "SystemUser",
+        "UserType"
+      ]
+    }
+  }
+}
